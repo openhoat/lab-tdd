@@ -11,4 +11,4 @@ Test Driven Development en pratique
 
 ## Sildeshow :
 
-[slides.laposte.io/bnumlab-tdd](http://slides.laposte.io/bnumlab-tdd)
+[openhoat.github.io/lab-tdd](https://openhoat.github.io/lab-tdd/)
