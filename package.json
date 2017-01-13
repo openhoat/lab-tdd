@@ -29,6 +29,7 @@
   "devDependencies": {
     "browserify": "^13.3.0",
     "chai": "^3.5.0",
+    "coveralls": "^2.11.15",
     "eslint": "^3.13.0",
     "eslint-config-nodejs": "^1.1.0",
     "istanbul": "^0.4.5",
