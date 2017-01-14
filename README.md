@@ -27,4 +27,4 @@ Réalisation d'un jeu de dés en 9 étapes, pour chacune des étapes :
 - **Faire le nécessaire dans les composants de [lib/](lib) pour faire passer le test à vert**
 - Comparer avec la solution dans [etc/solutions/lib/](etc/solutions/lib), puis passer à l'étape suivante
 
-Enjoy !
+Amusez-vous et apprenez !
