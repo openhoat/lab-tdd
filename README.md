@@ -13,6 +13,18 @@ Test Driven Development en pratique
 - Identifier les difficultés et les intérêts de adoption
 - Comprendre les enjeux
 
-## Sildeshow :
+## Présentation :
 
 [openhoat.github.io/lab-tdd](https://openhoat.github.io/lab-tdd/)
+
+## TP :
+
+Réalisation d'un jeu de dés en 9 étapes, pour chacune des étapes :
+- Récupérer le test formulant les attendus dans [etc/solutions/test](tree/master/etc/solutions/test) 
+- Le copier dans [test](tree/master/test) en supprimant de son nom "step[0-9]*-"
+- Lancer les tests via le [browser](blob/master/test/index.html) ou par la commande "npm test", ou "mocha"
+- Le tests est normalement non passant (rouge)
+- **Faire le nécessaire dans les composants de [lib](tree/master/lib) pour faire passer le test à vert**
+- Comparer avec la solution dans [etc/solutions/lib](tree/master/etc/solutions/lib), puis passer à l'étape suivante
+
+Enjoy !
